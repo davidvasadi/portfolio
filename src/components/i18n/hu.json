@@ -1,0 +1,155 @@
+{
+    "navbar": {
+      "home": "Kezdőlap",
+      "about": "Rólam",
+      "projects": "Projektek",
+      "services": "Szolgáltatások",
+      "contact": "Kapcsolat",
+      "Navigation": "Navigáció",
+      "Menu": "Menü",
+      "Articles": "Cikkek"
+    },
+    "hero": {
+      "Software": "Szoftver",
+      "intro": "Front-end fejlesztő és amatőr fotós.",
+      "description": "David vagyok, frontend fejlesztő, aki Budapesten él. A Davelopment alapítójaként egyedi weboldalak tervezésével és fejlesztésével segítek vállalkozásoknak és magánszemélyeknek kiemelkedni a digitális térben."
+    },
+    "about": {
+      "intro": "Vasadi Dávid vagyok. Budapesten élek, ahol a jövőt tervezem.",
+      "p1": "Gyerekkorom óta rajongok az alkotásért és az innovációért. Azonban időbe telt, mire megtaláltam, hogy mivel is szeretnék igazán foglalkozni. Sok területet kipróbáltam, tanultam, és fejlődtem, míg végül ráébredtem, hogy a webfejlesztés az, ahol igazán kiteljesedhetek. Amióta rátaláltam erre az útra, óriási boldogságot hozott az életembe, és végtelenül hálás vagyok érte.",
+      "p2": "Az évek során számos technológiát elsajátítottam, és emellett elmélyültem a modern design felépítésében is. Számomra a jó weboldal nemcsak jól néz ki, hanem könnyen használható, gyors és hatékony is.",
+      "p3": "Olyan projekteken dolgoztam, mint az időkövető rendszer vagy a csontkovacsbence.hu, ahol az egyedi design és a modern fejlesztési megoldások ötvözésével nyújtottam teljes körű szolgáltatást – a tervezéstől a SEO-optimalizáláson át a Google Analytics integrációig.",
+      "p4": "Szenvedélyem a full-stack fejlesztés, a felhasználói élmény maximalizálása, és olyan megoldások kidolgozása, amelyek valóban értéket teremtenek.",
+      "github": "Kövess Githubon",
+      "email": "Küldj mailt"
+    },
+    "contentSection": {
+      "title": "Írás a webfejlesztésről és a saját projektek esettanulmányairól.",
+      "readArticle": "Tovább olvasok",
+      "emailTitle": "Küldj emailt.",
+      "callMe": "Írj emailt az alábbi gombra kattintva.",
+      "call": "Küldés",
+      "work": "Munkahelyek",
+      "downloadCV": "Letöltés - CV",
+      "work1": {
+        "id": "1",
+        "date": "Április 1, 2025",
+        "title": "Hungaroton Művészlista",
+        "description": "Egy modern webalkalmazás, amely integrálja az API-kat az előadók adatainak megjelenítéséhez, támogatva a keresést, lapozást és szűrést, valamint egy reszponzív, felhasználóbarát élményt kínálva.",
+        "description2": "A projekt során számos technológiai kihívással találkoztam, beleértve a Next.js, React és Material-UI integrációját, valamint az API-hívások optimalizálását debouncing technikával, ami tovább javította a felhasználói élményt.",
+        "content": "A projekt célja, hogy egy áttekinthető és dinamikus felületet biztosítson a felhasználók számára a művészek adataihoz, lehetővé téve a gyors és hatékony keresést és szűrést, miközben a modern webes technológiák nyújtotta előnyöket is kihasználja.",
+        "content2": "Az alkalmazás a modern React és Next.js architektúrát használja, biztosítva a skálázhatóságot és karbantarthatóságot, miközben az API integráció és a debouncing technika révén a felhasználói élmény is optimalizálva van.",
+        "company": "Szabadúszó",
+        "position": "Full Stack Developer",
+        "timeline": "2023 -"
+      },
+      "work2": {
+        "id": "2",
+        "date": "December 1, 2024",
+        "title": "Időkövető rendszer",
+        "description": "Segít a cégeknek a munkavállalók idejének hatékony kezelésében, így növelve a termelékenységet és optimalizálva a munkaidőt.",
+        "description2": "A projekt során számos új technológiai kihívással találkoztam, például a Vue.js alapú komponens struktúrák és állapotkezelés elsajátításával. Fejlődtem a dinamikus adatkezelés és a Vue Router alkalmazásában, valamint a felhasználói élmény javításában, hogy a rendszer intuitív és könnyen kezelhető legyen.",
+        "content": "A legnagyobb kihívást az jelentette, hogy miként integráljak egy időpont-kezelési rendszert, amely pontosan nyújtja a munkavégzés idejét anélkül, hogy bonyolulttá válna. A rendszer képes nyomon követni a munkaidőt, jelentéseket generálni, és még az adatok vizualizálásában is segít.",
+        "content2": "Az alkalmazás alapvetően a vállalatok számára készült, hogy hatékonyabban kezeljék az alkalmazottak munkaidejét.",
+        "company": "Ramszesz Bútor Kft.",
+        "position": "Front-end Fejlesztő",
+        "timeline": "2022-2023"
+      },
+      "work3": {
+        "id": "3",
+        "date": "Október 3, 2024",
+        "title": "Csontkovacsbence",
+        "description": "Egyedi dizájnnal készült online bemutatkozó platform, amely gyors, reszponzív és SEO-optimalizált élményt biztosít a látogatóknak, segítve a szolgáltatások könnyű elérhetőségét és népszerűsítését.",
+        "description2": "A frontend és a backend modern JavaScript használatával készült, animációkkal és interaktív elemekkel a felhasználói élmény javítása érdekében. Az oldalhoz egyedi design is készült, amelyet ezt követően le is fejlesztettem, figyelembe véve a vizuális megjelenést és a funkcionalitást.",
+        "content": "Az oldal SEO szempontból optimalizált, megfelelő meta tagekkel, kulcsszavakkal és reszponzív dizájnnal, hogy a keresők könnyen indexálják. A Google Analytics integrációval nyomon követtem a látogatói viselkedést és konverziókat, hogy finomhangoljam az oldalt. A cPanel segítségével kezeltem az oldal beállításait, beleértve az adatbázis beállításokat, az SSL tanúsítvány telepítését és az automatikus biztonsági mentéseket.",
+        "content2": "A célom egy gyors, biztonságos és jól optimalizált weboldal létrehozása volt, amely megfelel a modern fejlesztési és SEO szabványoknak.",
+        "company": "Ramszesz Bútor Kft.",
+        "position": "Front-end Fejlesztő",
+        "timeline": "2022-2023"
+      },
+      "work4": {
+        "id": "4",
+        "date": "Április 21, 2024",
+        "title": "Kókai Zoltán pályázatírás",
+        "description": "A weboldal saját tervezésű designnal és egyedi WordPress dinamikus kóddal készült, amely lehetővé teszi a tartalomkezelést és a blogírást, garantálva a személyre szabott és professzionális megjelenést.",
+        "description2": "Készítettem egy személyre szabott sablont, amelyet WordPress-ben témaként publikáltam. A weboldal lehetőséget biztosít blogok létrehozására, így könnyedén frissíthető és bővíthető.",
+        "content": "A dizájn minden elemét saját kódolással alakítottam ki, figyelve a vizuális megjelenésre és a funkcionalitásra. A weboldal nemcsak esztétikus, hanem a felhasználóbarát navigációt is biztosít, lehetővé téve a zökkenőmentes böngészést.",
+        "content2": "A cél egy modern, dinamikusan működő weboldal létrehozása volt, amely megfelel a felhasználói igényeknek és a naprakész online jelenlét követelményeinek."
+      }
+    },
+    "projects": {
+      "title": "Dolgok, amiket azért hoztam létre, hogy nyomot hagyjak a világban.",
+      "description": "Az évek során rengeteg kisebb projekten dolgoztam, de ezek azok, amelyekre a legbüszkébb vagyok. Sok közülük nyílt forráskódú, szóval ha valami felkelti az érdeklődésedet, nézd meg a kódot, és járulj hozzá, ha van ötleted, hogyan lehetne javítani.",
+      "project1": {
+        "title": "Project 1",
+        "label": "Hungaroton Művészlista",
+        "description": "Egy modern webalkalmazás, amely zeneszerző adatokat jelenít meg kereséssel, lapozással és szűréssel",
+        "imageTitle": "Rest api rendszer"
+      },
+      "project2": {
+        "title": "Project 2",
+        "label": "Időkövető rendszer",
+        "description": "Segít a cégeknek a munkavállalók idejének hatékony kezelésében",
+        "imageTitle": "Vue rendszer"
+      },
+      "project3": {
+        "title": "Project 3",
+        "label": "Csontkovács Bence",
+        "description": "Szolgáltatást hírdető oldal",
+        "imageTitle": "Csonka Bence csontkovács"
+      },
+      "project4": {
+        "title": "Project 4",
+        "label": "Kókai Zoltán pályázatírás",
+        "description": "Pályázatíró blog oldal",
+        "imageTitle": "Kókai Zoltán pályázatírás"
+      }
+    },
+    "services": {
+      "title": "Webfejlesztés, egyedi design, időgazdálkodás és adatbázis-kezelés modern technológiákkal",
+      "description": "Személyre szabott weboldalakat, egyedi UX/UI designokat, időgazdálkodási megoldásokat és hatékony adatbázis-kezelési rendszereket kínálok. Mindezt a legmodernebb eszközökkel, hogy projektjeid professzionális és eredményes legyen!",
+      "service1": {
+        "title": "UX/UI design",
+        "label": "Egyedi felhasználóbarát design tervezése, amely erősíti a márkád és javítja a felhasználói élményt.",
+        "description": "Figma-alapú prototípusokkal és felhasználói tesztelésekkel támogatva.",
+        "workflow1": "Figma",
+        "workflow2": "Prototípus",
+        "workflow3": "Felhasználói tesztelés"
+      },
+      "service2": {
+        "title": "Webfejlesztés modern technológiákkal",
+        "label": "Korszerű, gyors és reszponzív weboldalak készítése React és Tailwind CSS alapokon",
+        "description": "Modern, minden eszközön tökéletesen működő reszponzív weboldalak készítése.",
+        "workflow1": "React",
+        "workflow2": "Tailwind",
+        "workflow3": "Responsive oldal"
+      },
+      "service3": {
+        "title": "SEO optimalizálás",
+        "label": "Weboldalad keresőmotorokra optimalizálása a jobb láthatóság érdekében",
+        "description": "Kulcsszavak stratégiai használata és a technikai teljesítmény finomhangolása.",
+        "workflow1": "SEO",
+        "workflow2": "Kulcsszó kutatás",
+        "workflow3": "Analitikák"
+      },
+      "service4": {
+        "title": "Backend megoldások",
+        "label": "Egyedi adatbázis-kezelő rendszerek és dinamikus funkciók fejlesztése.",
+        "description": "Egyedi adatbázis-kezelő rendszerek és dinamikus funkciók fejlesztése. PHP és MySQL alapú, biztonságos és skálázható backend megoldások készítése.",
+        "workflow1": "PHP",
+        "workflow2": "MySql",
+        "workflow3": "Adatbázis-kezelés"
+      }
+    },
+    "footer": {
+      "home": "Kezdőlap",
+      "about": "Rólam",
+      "projects": "Projektek",
+      "services": "Szolgáltatások",
+      "contact": "Kapcsolat",
+      "Navigation": "Navigáció",
+      "Menu": "Menü",
+      "Articles": "Cikkek"
+    }
+  }
+  

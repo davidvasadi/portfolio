@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "title": "Crafting a design system for a multiplanetary future",
+      "company": "Freelancer",
+      "position": "Full Stack Developer",
+      "date": "September 5, 2024",
+      "description": "Most companies try to stay ahead of the curve...",
+      "timeline": "0",
+      "content": "Full article content goes here...",
+      "imageUrl": "/assets/freelancer-icon.png"
+    },
+    {
+      "id": "2",
+      "title": "Next-gen AI and the future of software development",
+      "company": "Ramszesz Bútor Ltd.",
+      "position": "Front-end Developer",
+      "date": "FrontEnd developer",
+      "description": "Innovating the world of software development...",
+      "timeline": "0",
+      "content": "Full article content goes here...",
+      "imageUrl": "/assets/keszbutor-icon.png"
+    },
+    {
+      "id": "3",
+      "title": "Next-gen AI and the future of software development",
+      "company": "Ramszesz Bútor Ltd.",
+      "position": "Front-end Developer",
+      "date": "FrontEnd developer",
+      "description": "Innovating the world of software development...",
+      "timeline": "2022-2023",
+      "content": "Full article content goes here...",
+      "imageUrl": "https://via.placeholder.com/800x400"
+    },
+    {
+      "id": "4",
+      "title": "Next-gen AI and the future of software development",
+      "company": "Ramszesz Bútor Ltd.",
+      "position": "Front-end Developer",
+      "date": "FrontEnd developer",
+      "description": "Innovating the world of software development...",
+      "timeline": "2022-2023",
+      "content": "Full article content goes here...",
+      "imageUrl": "https://via.placeholder.com/800x400"
+    }
+  ]
+  

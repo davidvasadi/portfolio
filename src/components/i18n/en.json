@@ -1,0 +1,187 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact",
+    "Navigation": "Navigation",
+    "Menu": "Menu",
+    "Articles": "Articles"
+  },
+  "hero": {
+    "Software": "Software",
+    "intro": "Front-end developer and amateur photographer.",
+    "description": "I’m David, a frontend developer based in Budapest. As the founder of Davelopment, I specialize in designing and developing custom websites to help businesses and individuals stand out in the digital space."
+  },
+  "about": {
+    "intro": "I’m David Vasadi. I live in Budapest, where I design the future.",
+    "p1": "I’ve been passionate about creating and innovating since childhood. However, it took time to discover what I truly wanted to do. I explored various fields, learned, and grew until I realized that web development is where I can truly thrive. Since finding this path, it has brought immense happiness to my life, and I am endlessly grateful for it.",
+    "p2": "Over the years, I’ve mastered numerous technologies and delved deeply into building modern designs. To me, a great website is not only visually appealing but also user-friendly, fast, and efficient.",
+    "p3": "I’ve worked on projects like a time tracking system and csontkovacsbence.hu, where I delivered comprehensive services by combining unique design with modern development solutions – from planning to SEO optimization and Google Analytics integration.",
+    "p4": "My passion lies in full-stack development, maximizing user experience, and crafting solutions that truly create value.",
+    "github": "Follow on Github",
+    "email": "Send mail"
+  },
+  "contentSection": {
+    "title": "Writing about web development and case studies of my own projects.",
+    "readArticle": "Read article",
+    "emailTitle": "Write a mail.",
+    "callMe": "Write an email by clicking the button below.",
+    "call": "Send",
+    "work": "Work",
+    "downloadCV": "Download - CV",
+    "work1": {
+      "id": "Hungaroton Artist List",
+      "date": "Április 1, 2025",
+      "workflow": [
+        "Rest Api",
+        "Next Js",
+        "Typescript",
+        "AWS Amplify"
+      ],
+      "title": "Hungaroton Artist List",
+      "description": "A modern web application that integrates APIs to display artist data, supporting search, pagination, and filtering while offering a responsive, user-friendly experience.",
+      "description2": "During this project, I encountered several technological challenges, including integrating Next.js, React, and Material-UI, as well as optimizing API calls using debouncing techniques to enhance the user experience.",
+      "imageUrl": "https://davelopment.hu/assets/hungaroton_artist_list-Ba8g7b24.png",
+      "imageUrl2": "https://davelopment.hu/assets/hungaroton_artist_list2-BdobVt88.png",
+      "content": "The goal of this project is to provide users with a clear and dynamic interface for accessing artist data, enabling fast and efficient search and filtering, while leveraging the benefits of modern web technologies.",
+      "content2": "The application utilizes a modern React and Next.js architecture, ensuring scalability and maintainability, while optimizing the user experience through robust API integration and debouncing techniques.",
+      "company": "Freelancer",
+      "position": "Full Stack Developer",
+      "timeline": "2023 -"
+    },
+    "work2": {
+      "id": "2",
+      "date": "October 3, 2024",
+      "workflow": [
+        "Tailwin",
+        "Vue"
+      ],
+      "title": "Time Tracking System",
+      "description": "Helps companies efficiently manage employees working hours, thereby increasing productivity and optimizing work time...",
+      "description2": "During the project, I encountered several new technological challenges, such as mastering Vue.js component structures and state management. I improved in dynamic data handling and the use of Vue Router, as well as enhancing the user experience to make the system intuitive and easy to use.",
+      "imageUrl": "https://davelopment.hu/assets/time_tracker1-R9vCT9wF.png",
+      "imageUrl2": "https://davelopment.hu/assets/time_tracker2-fnCGQSQ3.png",
+      "content": "Full article content goes here...",
+      "content2": "The application was mainly developed for companies to help them manage employees work hours more effectively, thus increasing productivity.",
+      "company": "Ramszesz Bútor Ltd.",
+      "position": "Front-end Developer",
+      "timeline": "2020-2023"
+    },
+    "work3": {
+      "id": "3",
+      "date": "October 3, 2024",
+      "workflow": [
+        "UX/UI",
+        "SEO",
+        "Figma",
+        "Fullstack"
+      ],
+      "title": "Csontkovacsbence",
+      "description": "An online presentation platform with a unique design, providing a fast, responsive, and SEO-optimized experience for visitors, making services easily accessible and promotable.",
+      "description2": "Both the frontend and backend were developed using modern JavaScript, with animations and interactive elements to improve the user experience. The website includes a custom design that I developed, taking both visual appearance and functionality into account.",
+      "imageUrl": "https://davelopment.hu/assets/csontkovacsbence-q3ADh0in.png",
+      "imageUrl2": "https://davelopment.hu/assets/csontkovacsbence2-D3kSeVci.png",
+      "content": "The website is SEO-optimized with proper meta tags, keywords, and responsive design to ensure it is easily indexed by search engines. With Google Analytics integration, I tracked visitor behavior and conversions to fine-tune the site. Using cPanel, I managed the site's settings, including database configurations, SSL certificate installation, and automatic backups.",
+      "content2": "My goal was to create a fast, secure, and well-optimized website that adheres to modern development and SEO standards.",
+      "company": "Ramszesz Bútor Ltd.",
+      "position": "Front-end Developer",
+      "timeline": "2022-2023"
+    },
+    "work4": {
+      "id": "4",
+      "date": "April 5, 2024",
+      "workflow": [
+        "UX/UI",
+        "Figma",
+        "Fullstack",
+        "PHP"
+      ],
+      "title": "Kókai Zoltán Grant Writing",
+      "description": "The website was built with a custom-designed layout and bespoke WordPress dynamic code, enabling content management and blogging while ensuring a personalized and professional appearance.",
+      "description2": "I created a personalized template for the site, which I published as a theme in WordPress. The website allows for the creation of blogs, making it easy to update and expand.",
+      "imageUrl": "https://davelopment.hu/assets/kokaizoltan_palyazatiras-DZvf-Dxx.png",
+      "imageUrl2": "https://davelopment.hu/assets/kokaizoltan_palyazatiras2-1xYFd6bb.png",
+      "content": "I crafted every element of the design using custom coding, focusing on both the visual appearance and functionality. The website is not only aesthetically pleasing but also provides user-friendly navigation, ensuring seamless browsing.",
+      "content2": "The goal was to create a modern, dynamically functioning website that meets user needs and modern online presence requirements."
+    }
+  },
+  "projects": {
+    "title": "Things I created to leave a mark on the world.",
+    "description": "Over the years, I’ve worked on countless smaller projects, but these are the ones I’m most proud of. Many of them are open source, so if something catches your interest, check out the code and contribute if you have an idea on how to improve it.",
+    "project1": {
+      "title": "Project 1",
+      "label": "Hungaroton Artist List",
+      "description": "A modern web application that integrates APIs to display artist data, supporting search, pagination, and filtering while offering a responsive, user-friendly experience.",
+      "link": "https://main.d32fz1viwiq45h.amplifyapp.com/?page=1",
+      "imageUrl": "https://davelopment.hu/assets/hungaroton_icon-J9tXNL8A.ico"
+    },
+    "project2": {
+      "title": "Project 2",
+      "label": "My time tracker",
+      "description": "Helps companies efficiently manage employees time",
+      "link": "https://davidvasadi.github.io/my-time-tracker/",
+      "imageUrl": "https://davelopment.hu/assets/timetracker_favicon.ico"
+    },
+    "project3": {
+      "title": "Project 3",
+      "label": "Chiropractor Bence",
+      "description": "Service Advertising Page",
+      "link": "https://csontkovacsbence.hu",
+      "imageUrl": "https://davelopment.hu/assets/csontkovacsbence_logo-DNcc0pBf.png"
+    },
+    "project4": {
+      "title": "Project 4",
+      "label": "Zoltán Kókai Grant Writing",
+      "description": "Grant Writing Blog Page",
+      "link": "https://kokaizoltan.hu/",
+      "imageUrl": "https://davelopment.hu/assets/kokaizoltan_palyazatiras_logo-TCMAi-be.png"    }
+  },
+  "services": {
+    "title": "Web Development, Custom Design, Time Management, and Database Solutions with Modern Technologies",
+    "description": "I offer personalized websites, custom UX/UI designs, time management solutions, and efficient database management systems. All with the latest tools to make your projects professional and successful!",
+    "service1": {
+      "title": "UX/UI Design",
+      "label": "Creating custom user-friendly designs that strengthen your brand and enhance the user experience.",
+      "description": "Supported by Figma-based prototypes and user testing.",
+      "workflow1": "Figma",
+      "workflow2": "Prototype",
+      "workflow3": "User Testing"
+    },
+    "service2": {
+      "title": "Web Development with Modern Technologies",
+      "label": "Building modern, fast, and responsive websites using React and Tailwind CSS.",
+      "description": "Creating responsive websites that work flawlessly on all devices.",
+      "workflow1": "React",
+      "workflow2": "Tailwind",
+      "workflow3": "Responsive Website"
+    },
+    "service3": {
+      "title": "SEO Optimization",
+      "label": "Optimizing your website for search engines for better visibility.",
+      "description": "Strategic use of keywords and fine-tuning technical performance.",
+      "workflow1": "SEO",
+      "workflow2": "Keyword Research",
+      "workflow3": "Analytics"
+    },
+    "service4": {
+      "title": "Backend Solutions",
+      "label": "Developing custom database management systems and dynamic features.",
+      "description": "Building custom database management systems and dynamic features. Creating secure and scalable backend solutions with PHP and MySQL.",
+      "workflow1": "PHP",
+      "workflow2": "MySQL",
+      "workflow3": "Database Management"
+    }
+  },
+  "footer": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact",
+    "Navigation": "Navigation",
+    "Menu": "Menu",
+    "Articles": "Articles"
+  }
+}
