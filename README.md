@@ -1,8 +1,9 @@
 # Portfolio Website
 
-This is a modern, fast, and responsive personal portfolio website built with React, TypeScript, Tailwind CSS, and Vite.
+Personal portfolio website showcasing my developer projects and skills.  
+**View online:** [davelopment.hu](https://davelopment.hu)
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 - **React** – Dynamic and interactive user interface development
 - **TypeScript** – Enhanced type safety and improved developer experience
@@ -11,6 +12,16 @@ This is a modern, fast, and responsive personal portfolio website built with Rea
 - **ESLint** – Ensuring code quality and consistency
 - **JSON** – Structured data management and dynamic content
 - **i18next** – Multilingual support
+
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white&style=for-the-badge)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
+
+---
 
 ## Getting Started
 
@@ -46,42 +57,16 @@ Created by: **Dávid Vasadi**
 This project is licensed under the MIT License.
 
 
-# Portfolio Website (React + TypeScript + Vite)
-
-Personal portfolio website showcasing my developer projects and skills.  
-**View online:** [davelopment.hu](https://davelopment.hu)
-
 ---
 
-## 🛠️ Technologies Used:
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white&style=for-the-badge)
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
-
----
-
-## 📌 Key features:
-
-- Modern, responsive design built with Tailwind CSS
-- Multilingual support using i18next
-- Dynamic data handling via JSON files
-- Rapid development environment with React, TypeScript, and Vite including Hot Module Replacement (HMR)
-- ESLint configuration to maintain high-quality code
 
 
+# Portfólió weboldal
 
----
-
-# Portfólió Weboldal
-
-Ez egy modern, gyors és reszponzív személyes portfólió weboldal, amely React, TypeScript, Tailwind CSS és Vite technológiákkal készült.
+Saját fejlesztésű portfólió weboldal, amelyen bemutatom fejlesztői munkáimat és projektjeimet.  
 **Megtekintés:** [davelopment.hu](https://davelopment.hu)
 
-## 📌  Technológiai stack
+## 🛠️ Technológiai stack
 
 - **React** – Dinamikus és interaktív felhasználói felület fejlesztése
 - **TypeScript** – Típusbiztonság és jobb fejlesztői élmény
@@ -91,14 +76,14 @@ Ez egy modern, gyors és reszponzív személyes portfólió weboldal, amely Reac
 - **JSON** – Strukturált adatkezelés és dinamikus tartalom
 - **i18next** – Többnyelvűség támogatása
 
-## 🛠️ Használt technológiák:
-
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
+
+---
 
 ## Projekt indítása
 
@@ -132,31 +117,3 @@ Készítette: **Vasadi Dávid**
 ## Licenc
 
 Ez a projekt MIT licenc alatt áll.
-
-# Portfólió weboldal (React + TypeScript + Vite)
-
-Saját fejlesztésű portfólió weboldalam, amelyen bemutatom fejlesztői munkáimat és projektjeimet.  
-**Megtekintés:** [davelopment.hu](https://davelopment.hu)
-
----
-
-## 🛠️ Használt technológiák:
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white&style=for-the-badge)
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
-
----
-
-## 📌 Főbb jellemzők:
-
-- Modern, reszponzív design Tailwind CSS segítségével
-- Többnyelvűség (i18next használatával)
-- Adatok dinamikus kezelése JSON formátumban
-- React, TypeScript és Vite környezet gyors fejlesztéssel és HMR támogatással
-- ESLint konfiguráció a kódminőség fenntartásáért
-
-
